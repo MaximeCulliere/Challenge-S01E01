@@ -43,6 +43,6 @@ Je suis ensuite retourné dans le médical, mais au bloc opératoire, dans une c
 
 
 
-![TontonDark](/img/dark.png#gh-dark-mode-only)
-![TontonTrooper](/img/bright.png/bright.png#gh-light-mode-only)
+![TontonDark](img/dark.png#gh-dark-mode-only)
+![TontonTrooper](img/bright.png#gh-light-mode-only)
 
